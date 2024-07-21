@@ -20,7 +20,7 @@ Here's how you print the included example deck:
 2. Run `python3 print.py 'Starter Deck.deck'` in a Terminal in this folder.
 
 ### Printing other Decks
-To print other deck files, replace the 'Starter Deck.deck' in the command above with the path to whatever deck file you want to print.  
+To print other deck files, replace the `'Starter Deck.deck'` in the command above with the path to whatever deck file you want to print.  
 You can find more decks at [crossuniverse.net](https://crossuniverse.net/decks) or make your own with [Cross Universe Online](https://battle.crossuniverse.net/deckMaker/index.html).
 
 ## Why does this need the internet to print?
