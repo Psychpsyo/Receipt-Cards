@@ -17,3 +17,6 @@ If you want to print other decks, you can get some on [crossuniverse.net](https:
 2. Run `python3 print.py 'Starter Deck.deck'` in a Terminal in this folder.
 
 You can replace 'Starter Deck.deck' with the path to whatever deck file you want to print.
+
+## Why does this need the internet to print?
+This uses the [crossuniverse.net API](https://crossuniverse.net/apiDocs/) to automatically fetch the up-to-date card text when printing and to do that, it needs the internet.
