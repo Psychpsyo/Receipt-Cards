@@ -1,10 +1,10 @@
 # Receipt-Cards
-This prints [Cross Universe](https://crossuniverse.net/jp) decks on a receipt printer, using [the python escpos library](https://github.com/python-escpos/python-escpos), like so:
-![Some cards printed out](./example.jpg)
+This prints [Cross Universe](https://crossuniverse.net/jp) decks on a receipt printer, using [the python escpos library](https://github.com/python-escpos/python-escpos), like so:  
+<img src="https://raw.githubusercontent.com/Psychpsyo/Receipt-Cards/main/example.jpg" width="500">
 
 Currently, the ZJ-5890T is the only supported printer - if you have a different printer, feel free to add support for it.  
-And since the ZJ-5890T can't print images, you'll also have to draw those yourself after printing, somewhat like this:
-![Printed cards with pictures drawn onto them](./exampleDrawn.jpg)
+And since the ZJ-5890T can't print images, you'll also have to draw those yourself after printing, somewhat like this:  
+<img src="https://raw.githubusercontent.com/Psychpsyo/Receipt-Cards/main/exampleDrawn.jpg" width="500">
 
 ## How to Print
 Here's how you print the included example deck.  
