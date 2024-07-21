@@ -1,6 +1,6 @@
 # Receipt-Cards
-This prints [Cross Universe](https://crossuniverse.net/jp) decks on a receipt printer.  
-Currently, the ZJ-5890T is the only supported printer. If you have a different printer, feel free to add support for it.
+This prints [Cross Universe](https://crossuniverse.net/jp) decks on a receipt printer, using [the python escpos library](https://github.com/python-escpos/python-escpos)..  
+Currently, the ZJ-5890T is the only supported printer - if you have a different printer, feel free to add support for it.
 
 ## How to Print
 Here's how you print the included example deck.  
@@ -20,3 +20,6 @@ You can replace 'Starter Deck.deck' with the path to whatever deck file you want
 
 ## Why does this need the internet to print?
 This uses the [crossuniverse.net API](https://crossuniverse.net/apiDocs/) to automatically fetch the up-to-date card text when printing and to do that, it needs the internet.
+
+## License
+All code in this repo is under the MIT license, so have fun with it.
