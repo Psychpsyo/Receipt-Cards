@@ -7,7 +7,7 @@ And since the ZJ-5890T can't print images, you'll also have to draw those yourse
 <img src="https://raw.githubusercontent.com/Psychpsyo/Receipt-Cards/main/exampleDrawn.jpg" width="500">
 
 ## How to Print
-Here's how you print the included example deck.  
+Here's how you print the included example deck:  
 
 ### Setup
 1. Download this repo if you haven't already.
