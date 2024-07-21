@@ -8,7 +8,6 @@ And since the ZJ-5890T can't print images, you'll also have to draw those yourse
 
 ## How to Print
 Here's how you print the included example deck.  
-If you want to print other decks, you can get some on [crossuniverse.net](https://crossuniverse.net) or make your own with [Cross Universe Online](https://battle.crossuniverse.net/deckMaker/index.html).
 
 ### Setup
 1. Download this repo if you haven't already.
@@ -20,7 +19,9 @@ If you want to print other decks, you can get some on [crossuniverse.net](https:
 1. Plug in your printer.
 2. Run `python3 print.py 'Starter Deck.deck'` in a Terminal in this folder.
 
-You can replace 'Starter Deck.deck' with the path to whatever deck file you want to print.
+### Printing other Decks
+To print other deck files, replace the 'Starter Deck.deck' in the command above with the path to whatever deck file you want to print.  
+You can find more decks at [crossuniverse.net](https://crossuniverse.net/decks) or make your own with [Cross Universe Online](https://battle.crossuniverse.net/deckMaker/index.html).
 
 ## Why does this need the internet to print?
 This uses the [crossuniverse.net API](https://crossuniverse.net/apiDocs/) to automatically fetch the up-to-date card text when printing and to do that, it needs the internet.
