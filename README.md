@@ -3,7 +3,7 @@ This prints [Cross Universe](https://crossuniverse.net/jp) decks on a receipt pr
 <img src="https://raw.githubusercontent.com/Psychpsyo/Receipt-Cards/main/example.jpg" width="500">
 
 Currently, the ZJ-5890T is the only supported printer - if you have a different printer, feel free to add support for it.  
-And since the ZJ-5890T can't print images<sup>[citation needed]</sup>, you'll also have to draw those yourself after printing, somewhat like this:  
+And since I couldn't get my ZJ-5890T to print images, you'll also have to draw those yourself after printing, somewhat like this:  
 <img src="https://raw.githubusercontent.com/Psychpsyo/Receipt-Cards/main/exampleDrawn.jpg" width="500">
 
 ## How to Print
